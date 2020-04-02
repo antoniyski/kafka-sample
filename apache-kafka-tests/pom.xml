@@ -3,6 +3,7 @@
   <groupId>none.none</groupId>
   <artifactId>apache-kafka-tests</artifactId>
   <version>0.0.1</version>
+  <name>kafka test</name>
   
   <build>
   	<plugins>
